@@ -1,0 +1,5 @@
+- Get All Badges
+- Remove Fall Damage
+- Remove Wall Barriers (Invisible Wall)
+- Remove Wind Effects
+- Unlock all tents
